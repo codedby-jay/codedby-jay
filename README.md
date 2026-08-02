@@ -1,8 +1,8 @@
 # Hi 👋, I'm Jay Prajapati
 
-### 💻 Full Stack Developer | MERN Stack | AI Enthusiast | DSA
+### 💻 Full Stack Developer | MERN Stack | AI Enthusiast | Backend Engineering
 
-> Building AI-powered web applications and solving real-world problems with modern technologies.
+> Building scalable web applications, AI-powered solutions, and modern backend systems.
 
 ![](https://komarev.com/ghpvc/?username=codedby-jay&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -10,46 +10,100 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech IT Student at **L.D. College of Engineering**
-- 💻 Passionate about **Full Stack Development**
-- 🤖 Interested in **AI-powered Applications**
-- 🌱 Currently learning **React, System Design & Advanced DSA**
-- 🚀 Building scalable MERN applications
-- 🎯 Goal: Software Engineer at a Product-Based Company
+I'm **Jay Prajapati**, a passionate **Full Stack Developer** specializing in the **MERN Stack** with practical experience building scalable web applications, AI-powered platforms, REST APIs, and real-time systems.
+
+I enjoy transforming ideas into production-ready applications using modern technologies such as **React.js, Node.js, Express.js, MongoDB, FastAPI, Flask, PHP, and MySQL**.
+
+My interests include **Backend Engineering**, **Artificial Intelligence**, **System Design**, and **Software Development**, where I focus on building secure, scalable, and high-performance applications.
+
+---
+
+## 💼 What I Do
+
+- 💻 Build Full Stack MERN Applications
+- 🤖 Develop AI-powered Web Applications
+- ⚡ Design REST APIs
+- 🔐 Implement JWT Authentication & RBAC
+- 🌐 Build Responsive UI
+- 📊 Develop Real-time Applications using Socket.io
+- 🚀 Deploy applications using Vercel & Render
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- React Ecosystem
+- Backend Architecture
+- System Design
+- Cloud Deployment
+- AI Integration
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Selected for Smart India Hackathon (SIH)
+- 💻 Solved 150+ LeetCode Problems
+- 🚀 Built AI-powered Full Stack Applications
+- 📚 Passionate about Backend Engineering
+
+---
+
+## 🎯 Career Goal
+
+To become a Software Engineer at a product-based company where I can build scalable products, solve challenging engineering problems, and continuously improve my technical skills.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend
+---
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Frontend
 
-### Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+---
 
-### Database
+## Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -57,73 +111,86 @@
 
 ## 🎨 DeckCraft — AI Presentation Generator
 
-> AI-powered presentation generator inspired by Gamma.
+AI-powered presentation platform inspired by Gamma.
 
 ### Features
 
 - 🤖 AI-generated presentations
-- ✨ Prompt-to-slide generation
-- 🎨 Beautiful slide themes
-- 📄 PPT export
+- 📝 Prompt-to-slide generation
+- 🎨 Beautiful themes
+- 📄 Export presentations
 - ⚡ Fast generation
 - 📱 Responsive UI
 
-**Tech:** React • Node.js • Express • MongoDB • AI APIs
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • AI APIs
 
 ---
 
-## 🤖 AI Interview Agent
+## 🤖 AI Smart Interview Agent
 
-> Practice technical interviews with an AI interviewer.
+AI-powered mock interview platform that generates interview questions and provides intelligent feedback.
 
 ### Features
 
 - 🎤 AI Interview Simulation
-- 💬 Interactive conversation
-- 📊 Performance analysis
-- 🧠 AI feedback
-- 📈 Progress tracking
+- 💬 AI-generated questions
+- 📊 Performance Analytics
+- 🧠 AI Feedback
+- 📄 Resume Parsing
+- 📈 Progress Tracking
 
-**Tech:** React • Node.js • Express • MongoDB • AI APIs
+**Tech Stack**
+
+React • Node.js • Express • FastAPI • MongoDB • Claude/OpenAI API
 
 ---
 
 ## 🚗 Smart Campus Parking System
 
-> Smart parking solution built using the MERN stack.
+Smart parking management platform.
 
 ### Features
 
-- 🚘 QR Authentication
-- 📊 Live Parking Availability
-- 👨‍💼 Admin Dashboard
-- 🔍 Vehicle Search
-- ⚡ Real-time updates
+- QR Authentication
+- Real-Time Parking Availability
+- Admin Dashboard
+- Vehicle Search
+- Socket.io Integration
 
-**Tech:** MERN • Socket.io
+**Tech Stack**
+
+MERN Stack • Socket.io
 
 ---
 
-## 🌱 Crop Recommendation System
+## 🌱 Smart Crop Prediction System
 
-> ML-powered crop recommendation platform.
+Machine Learning-based crop recommendation platform.
 
 ### Features
 
-- 🌾 Smart crop prediction
-- 📊 Data visualization
-- 🌍 User dashboard
+- AI Crop Prediction
+- ML Recommendation
+- AI Farming Chatbot
+- Dashboard
+- Interactive Visualizations
 
-**Tech:** TypeScript • Machine Learning • Node.js
+**Tech Stack**
+
+Python • Flask • React • MySQL • Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=codedby-jay&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedby-jay&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -131,7 +198,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=codedby-jay&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
@@ -139,34 +208,37 @@
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedby-jay&theme=github-dark"/>
+
 </p>
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 2026 Goals
 
-- Advanced DSA
-- React.js
-- System Design
-- Computer Networks
-- Operating Systems
+- ✅ Solve 300+ LeetCode Problems
+- ✅ Build 10+ Production-Level Projects
+- ✅ Master MERN Stack
+- ✅ Learn System Design
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Engineering Internship
 
 ---
 
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/jayy-prajapati
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO
-- 💻 LeetCode: YOUR_LEETCODE
+- 🌐 Portfolio: https://jayy-portfolio.netlify.app
+- 📧 Email: codedbyjay@gmail.com
+- 💻 GitHub: https://github.com/codedby-jay
 
 ---
 
-# 💡 Quote
+# 💬 Favorite Quote
 
-> **"Consistency beats intensity."**
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
-⭐ Thanks for visiting my profile! If you like my work, consider following me.
+⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
