@@ -1,153 +1,129 @@
-<div align="center">
-
 # Hi 👋, I'm Jay Prajapati
 
-### 💻 Full Stack Developer | MERN Stack | DSA Enthusiast | B.Tech IT Student
+### 💻 Full Stack Developer | MERN Stack | AI Enthusiast | DSA
 
-<p>
-Passionate about building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning modern software engineering.
-</p>
+> Building AI-powered web applications and solving real-world problems with modern technologies.
 
-<img src="https://komarev.com/ghpvc/?username=codedby-jay&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+![](https://komarev.com/ghpvc/?username=codedby-jay&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech Information Technology Student at **L.D. College of Engineering**
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning **React, Node.js, Express.js & System Design**
-- 🧠 Solving Data Structures & Algorithms using **C++**
-- 🚀 Building real-world MERN Stack applications
-- 🤝 Open to collaborating on Open Source Projects
-- 🎯 Goal: Secure a Software Engineering Internship at a Product-Based Company
+- 🎓 B.Tech IT Student at **L.D. College of Engineering**
+- 💻 Passionate about **Full Stack Development**
+- 🤖 Interested in **AI-powered Applications**
+- 🌱 Currently learning **React, System Design & Advanced DSA**
+- 🚀 Building scalable MERN applications
+- 🎯 Goal: Software Engineer at a Product-Based Company
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
-# 📌 Featured Projects
+## 🎨 DeckCraft — AI Presentation Generator
 
-## 🎨 DeckCraft – AI Presentation Generator
+> AI-powered presentation generator inspired by Gamma.
 
-An AI-powered web application that generates professional presentations from prompts, similar to Gamma.
+### Features
 
-**Key Features**
-- 🤖 AI-powered presentation generation
-- 📝 Prompt-to-slide creation
-- 🎨 Beautiful presentation themes
-- ⚡ Fast content generation
-- 📥 Export presentations
-- 📱 Responsive design
+- 🤖 AI-generated presentations
+- ✨ Prompt-to-slide generation
+- 🎨 Beautiful slide themes
+- 📄 PPT export
+- ⚡ Fast generation
+- 📱 Responsive UI
 
-**Tech Stack**
-- React
-- Node.js
-- Express.js
-- MongoDB
-- AI API
+**Tech:** React • Node.js • Express • MongoDB • AI APIs
 
 ---
 
 ## 🤖 AI Interview Agent
 
-An AI-powered interview platform that simulates technical interviews and provides intelligent feedback.
+> Practice technical interviews with an AI interviewer.
 
-**Key Features**
+### Features
+
 - 🎤 AI Interview Simulation
-- 💬 Real-time Conversation
-- 📊 Performance Analysis
-- 🧠 AI Feedback & Suggestions
-- 📈 Interview Progress Tracking
-- 🔐 User Authentication
+- 💬 Interactive conversation
+- 📊 Performance analysis
+- 🧠 AI feedback
+- 📈 Progress tracking
 
-**Tech Stack**
-- React
-- Node.js
-- Express.js
-- MongoDB
-- AI API
+**Tech:** React • Node.js • Express • MongoDB • AI APIs
 
 ---
 
 ## 🚗 Smart Campus Parking System
 
-A MERN-based smart parking solution for educational campuses.
+> Smart parking solution built using the MERN stack.
 
-**Key Features**
-- 🚘 QR Code Authentication
-- 📊 Real-Time Parking Availability
+### Features
+
+- 🚘 QR Authentication
+- 📊 Live Parking Availability
 - 👨‍💼 Admin Dashboard
 - 🔍 Vehicle Search
-- ⚡ Socket.io Integration
+- ⚡ Real-time updates
 
-**Tech Stack**
-- MongoDB
-- Express.js
-- React
-- Node.js
-- Socket.io
+**Tech:** MERN • Socket.io
 
 ---
 
 ## 🌱 Crop Recommendation System
 
-A machine learning application that recommends the most suitable crop based on soil and weather conditions.
+> ML-powered crop recommendation platform.
 
-**Key Features**
-- 🌾 Smart Crop Prediction
-- 📈 Machine Learning Model
-- 📊 Data Visualization
-- 🌍 User-Friendly Dashboard
+### Features
 
-**Tech Stack**
-- TypeScript
-- Machine Learning
-- Node.js
-# 📈 GitHub Statistics
+- 🌾 Smart crop prediction
+- 📊 Data visualization
+- 🌍 User dashboard
+
+**Tech:** TypeScript • Machine Learning • Node.js
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codedby-jay&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codedby-jay&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedby-jay&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedby-jay&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -155,69 +131,42 @@ A machine learning application that recommends the most suitable crop based on s
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=codedby-jay&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=codedby-jay&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedby-jay&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedby-jay&theme=github-dark"/>
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 Currently Learning
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
 - Advanced DSA
+- React.js
 - System Design
 - Computer Networks
 - Operating Systems
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Solve 300+ LeetCode Problems
-- ✅ Build 10 Production-Level Projects
-- ✅ Master MERN Stack
-- ✅ Learn System Design
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-
----
-
 # 📫 Connect With Me
 
-<p>
-
-<a href="https://linkedin.com/in/jayy-prajapati">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:codedbyjayy@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/jayy-prajapati
+- 📧 Email: YOUR_EMAIL
+- 🌐 Portfolio: YOUR_PORTFOLIO
+- 💻 LeetCode: YOUR_LEETCODE
 
 ---
 
-<div align="center">
+# 💡 Quote
 
-### 💡 Quote
+> **"Consistency beats intensity."**
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+---
 
-⭐ Thanks for visiting my profile!
-
-</div>
+⭐ Thanks for visiting my profile! If you like my work, consider following me.
