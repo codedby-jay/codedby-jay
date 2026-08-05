@@ -183,16 +183,6 @@ Python • Flask • React • MySQL • Machine Learning
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedby-jay&theme=github-dark"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Solve 300+ LeetCode Problems
